@@ -1,0 +1,4 @@
+{
+  "extends": ["@rocketseat/eslint-config-react"],
+  "rules": { "camelcase": "off" } // colocado para o eslint não reclamar quando algo declarado não for camelCase
+}
